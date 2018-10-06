@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1529646772 source:c:\users\kanyon\desktop\cse1325\homeworks\homework3\kwl7925_hw3\kwl7925_allele.cpp
+	"KWL7925_Allele.h"
+
+1529847659 c:\users\kanyon\desktop\cse1325\homeworks\homework3\kwl7925_hw3\kwl7925_allele.h
+	<iostream>
+
+1529646772 source:c:\users\kanyon\desktop\cse1325\homeworks\homework3\kwl7925_hw3\kwl7925_genotype.cpp
+	"KWL7925_Genotype.h"
+
+1529646772 c:\users\kanyon\desktop\cse1325\homeworks\homework3\kwl7925_hw3\kwl7925_genotype.h
+	"KWL7925_Allele.h"
+
+1529621913 source:c:\users\kanyon\desktop\cse1325\homeworks\homework3\kwl7925_hw3\kwl7925_pea_plant.cpp
+	"KWL7925_Pea_Plant.h"
+
+1529621913 c:\users\kanyon\desktop\cse1325\homeworks\homework3\kwl7925_hw3\kwl7925_pea_plant.h
+	"KWL7925_Trait.h"
+
+1529646772 c:\users\kanyon\desktop\cse1325\homeworks\homework3\kwl7925_hw3\kwl7925_trait.h
+	"KWL7925_Genotype.h"
+	<iostream>
+
+1529646772 source:c:\users\kanyon\desktop\cse1325\homeworks\homework3\kwl7925_hw3\kwl7925_pea_plant_trait_maps.cpp
+	"KWL7925_Pea_Plant_Trait_Maps.h"
+
+1529621913 c:\users\kanyon\desktop\cse1325\homeworks\homework3\kwl7925_hw3\kwl7925_pea_plant_trait_maps.h
+	"KWL7925_Genotype.h"
+	<map>
+
